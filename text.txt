@@ -1,0 +1,16 @@
+responsive
+-Sự tương thích : hiển thị đầy đủ nội dung trên tất cả cá thiết bị
+
+-break point : điểm phá vỡ là điểm chia cắt các loại màn hình 
+
++ PC first 
+
++ Mobile first
+
+- Truy vấn
+
+@media onlyscreen and (max-width:n ) or (min-width:n ) {
+
+}
+
++ max-width : 
